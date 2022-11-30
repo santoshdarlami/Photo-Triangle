@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoTraingle</string>
+    <string name="add_image_1">add image 1</string>
+    <string name="add_image_2">add image 2</string>
+    <string name="generate">Generate</string>
+    <string name="enter_size">Enter size</string>
+</resources>
